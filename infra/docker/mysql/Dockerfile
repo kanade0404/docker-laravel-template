@@ -1,5 +1,5 @@
 FROM mysql:8.0
-LABEL maintainer="ucan-lab <yes@u-can.pro>"
+LABEL maintainer="kanade0404 <melty0404@gmail.com>"
 
 ENV TZ=UTC \
   MYSQL_DATABASE=laravel_local \
