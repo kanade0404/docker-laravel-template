@@ -16,7 +16,7 @@ $ make create-project # Install the latest Laravel project
 $ make install-recommend-packages # Not required
 ```
 
-http://127.0.0.1
+http://127.0.0.1:8080
 
 ## Container structure
 
